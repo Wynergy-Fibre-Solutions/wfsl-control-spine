@@ -34,3 +34,10 @@ Rules
 - Assets must be registered here to be official
 - Status changes require a versioned update
 - Frozen assets are immutable
+
+3. WFSL Verification & Integrity Tooling
+   Type: Platform Tooling
+   Repository: Wynergy-Fibre-Solutions/wfsl-verification-standard
+   Status: Active
+   Snapshot Tag: pending
+   Notes: Verification, integrity, and trust tooling forming core WFSL assurance layer
